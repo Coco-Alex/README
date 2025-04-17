@@ -15,4 +15,5 @@ Hey! Ich bin Coco-Alex, 16 Jahre Alt und absolut begeistert von allem rund um Fi
 📫 **Kontakt**
 
 - 📬 Schreib mir bei Fragen oder für Kooperationen!
+
 Discord: k.09alex
