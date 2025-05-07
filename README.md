@@ -1,19 +1,7 @@
-Hey! Ich bin Coco-Alex, 16 Jahre Alt und absolut begeistert von allem rund um FiveM-Development.
+Hey! Ich bin Coco-Alex, 15 Jahre Alt und absolut begeistert von allem rund um die Webentwicklung.
 
 🚀 **Was ich mache**
 
-- 🧠 Entwicklung von eigenen Lua Scripts und Serverlogik
+- 🧠 Entwicklung individueller Webanwendungen mit JavaScript, HTML & CSS
 
-- 🛠️ Anpassung & Optimierung von bestehenden Ressourcen
-
-- 🎨 Integration von UI/UX mit NUI (HTML, CSS, JS)
-
-- ⚙️ SQL & Datenbank-Management (z.B. MySQL)
-
-- 🔐 Sicherheit & Performance-Optimierung
-
-📫 **Kontakt**
-
-- 📬 Schreib mir bei Fragen oder für Kooperationen!
-
-Discord: k.09alex
+- 🔐 Fokus auf Sicherheit, Performance und sauberen Code
