@@ -1,7 +1,7 @@
-Hey! Ich bin Coco-Alex, 15 Jahre Alt und absolut begeistert von allem rund um die Webentwicklung.
+Hey! Ich bin Coco-Alex, 16 Jahre Alt und absolut begeistert von allem rund um die Spiel- und Webentwicklung.
 
 🚀 **Was ich mache**
 
 - 🧠 Entwicklung individueller Webanwendungen mit HTML & CSS
 
-- 🔐 Fokus auf Sicherheit, Performance und sauberen Code
+- 🔐 Fokus auf Performance und sauberen Code
